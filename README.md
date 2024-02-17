@@ -1,6 +1,8 @@
-Level- Basic
-Task-1
+🎚️Level- Basic , Task-1
 This is a Responsive Landing Page of Beats 3 headphone.
+
+🔗Live Link-
+https://beats3headphone-aj.netlify.app/
 
 ![Screenshot (21)](https://github.com/AjayKhati/SlashMark-FullStackWebDevInternship-/assets/100029407/21ad2f9f-f114-4053-9e83-f5cd9e75b1c8)
 ![Screenshot (22)](https://github.com/AjayKhati/SlashMark-FullStackWebDevInternship-/assets/100029407/7c2ef08c-bc95-4b2a-ac79-5643b1ee87ad)
